@@ -4,7 +4,7 @@
 
 - 项目名, 取自 魔兽世界 Grommash Hellscream. 为了纪念这句口号.
 - 兽人永不为奴. (魔兽世界 - Grommash Hellscream)
-- 基于 Rust + Tokio + axum 的 web 框架, 开箱即用. 类似 Python Django.
+- 基于 [Rust](https://github.com/rust-lang/rust) + [Tokio](https://github.com/tokio-rs/tokio) + [Axum](https://github.com/tokio-rs/axum) 的 web 框架, 开箱即用. 类似 Python Django.
 
 ## 核心目标:
 

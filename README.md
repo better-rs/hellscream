@@ -2,7 +2,7 @@
 
 > [Grommash Hellscream: "We Will Never Be Slaves"](https://youtu.be/eb3Zo4doFQA)
 
-- Rust Web Framework, Base on `Tokio + Axum`.
+- Rust Web Framework, Base on [Tokio](https://github.com/tokio-rs/tokio) + [Axum](https://github.com/tokio-rs/axum).
 
 - [中文文档](README-CN.md)
 
